@@ -1,0 +1,18 @@
+101pong is the first mathematic project at Epitech.
+
+The goal is to check if the ball will collid the pong game paddle (which
+if define by the equation z = 0)
+
+How to use 101pong : 
+
+USAGE
+    ./101pong x0 y0 z0 x1 y1 z1 n
+
+DESCRIPTION
+    x0  ball abscissa at time t
+    y0  ball ordinate at time t
+    z0  ball altitude at time t
+    x1  ball abscissa at time t
+    y1  ball ordinate at time t
+    z1  ball altitude at time t
+    n   time shift (greater than or equal to zero, integer)
